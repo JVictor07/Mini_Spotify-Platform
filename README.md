@@ -2,7 +2,7 @@
 
 <a href="https://react-spotify.netlify.app/">Link</a>
 
-<a href="https://react-spotify.netlify.app/">
+<a href="https://react-spotify.netlify.app/" target="_blank">
   <img src="https://i.imgur.com/7Jrbnsf.png" alt="mini spotify platform homepage">
 </a>
 
