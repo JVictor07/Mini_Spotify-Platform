@@ -1,6 +1,6 @@
 <h1> Mini_Spotify-Platform </h1>
 
-<a href="https://react-spotify.netlify.app/">Link</a>
+<a href="https://react-spotify.netlify.app/">Go to the page</a>
 
 <a href="https://react-spotify.netlify.app/" target="_blank">
   <img src="https://i.imgur.com/7Jrbnsf.png" alt="mini spotify platform homepage">
