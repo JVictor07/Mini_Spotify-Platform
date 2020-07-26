@@ -33,5 +33,5 @@
   Or, if you want to see the code and run this project in your computer, copy the project and run "yarn start".
 </p>
 
------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 Made with ♥️, João Silva
